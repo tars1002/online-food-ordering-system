@@ -1,0 +1,11 @@
+2
+1111 The Vellore Kitchen
+3
+Plain Naan 20.00
+Paneer Butter Masala 84.00
+Veg Fried Rice 110.00
+
+1112 Amirthaa
+2
+Butter Naan 26.00
+White Sauce Pasta 90.00

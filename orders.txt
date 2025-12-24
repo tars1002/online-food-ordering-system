@@ -1,0 +1,2 @@
+OrderID: 1, Customer: Sample User, RestaurantID: 1111, Total: 104.00, Address: Sample Address
+Items: Plain Naan x2 (40.00); Paneer Butter Masala x1 (84.00);
